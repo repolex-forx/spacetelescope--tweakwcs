@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/spacetelescope/tweakwcs/commit/d87f57c9682468bf616bd0eddf60432d70f028c9",
       "git:hexsha": "d87f57c9682468bf616bd0eddf60432d70f028c9",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/spacetelescope/tweakwcs/commit/e111fd50ed5ae478a3fcd3fdb63604126faa8a1e",
